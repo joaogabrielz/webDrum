@@ -9,9 +9,9 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-image:url(./img/bateria.jpg);
+    background-image:url(./img/1-tocando-bateria.jpg);
     background-repeat: no-repeat;
-    background-size: 100vw ;
+    background-size: cover;
     background-position: center;
     font-family: Arial, Helvetica, sans-serif;
 }
